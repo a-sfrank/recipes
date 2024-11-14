@@ -4,3 +4,4 @@
 * lime
 * salt
 ## Instructions
+smash avocade and mix all ingredients
