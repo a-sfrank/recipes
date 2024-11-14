@@ -1,4 +1,4 @@
-change made by Anna
+change made by Anna.
 # Guacamole 
 ## Ingredients
 * avocado
