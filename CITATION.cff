@@ -1,1 +1,14 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Frank"
+  given-names: "Anna"
+  orcid: "https://orcid.org/0000-0002-3728-3476"
+- family-names: "Mari"
+  given-names: "Raud"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "recipes"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-11-15
+url: "https://github.com/a-sfrank/recipes"
